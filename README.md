@@ -2,10 +2,10 @@
 
 * Esta app sencilla esta creada con las siguientes tecnologias:
  
-    HTML 5
-    CSS 3
-    BOOTSTRAP V5.3
-    VANILLA JS
+   - HTML 5
+   - CSS 3
+   - BOOTSTRAP V5.3
+   - VANILLA JS
 
 * Esta diseñanda para que el usuario ingrese el dato en en campo de input y cada vez
   que este completo se agregue a una lista que va creciendo a medida que se agreguen,
